@@ -1,3 +1,4 @@
+
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&width=435&lines=Hii+%2C+Nikhil+this+Side)](https://git.io/typing-svg)
 
 ※⁜∻ Student | Web Developer | Multilingual Coder
@@ -57,6 +58,7 @@ Here’s a look at my coding toolkit:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width ="45" hieght="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"  width ="45" hieght="45" />
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&section=footer&textBg=false&fontAlign=50&animation=scaleIn&descAlign=51&descAlignY=52&descSize=0&rotate=0&reversal=true"/>
 <!-- Add more as you grow! -->
 
 ---
