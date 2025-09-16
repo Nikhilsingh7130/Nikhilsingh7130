@@ -4,6 +4,9 @@ on:
     - cron: "0 */12 * * *" # every 12 hours
   workflow_dispatch:
 
+permissions:
+  contents: write   # ✅ Needed so the Action can push to your repo
+
 jobs:
   build:
     name: Generate snake
@@ -24,3 +27,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
