@@ -55,14 +55,10 @@ Here’s a look at my coding toolkit:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikhilsingh7130&show_icons=true&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhilsingh7130&layout=compact&theme=dracula" />
- ### 🐍 Contribution Snake
+ 
+![Snake animation](https://raw.githubusercontent.com/Nikhilsingh7130/Nikhilsingh7130/output/github-contribution-grid-snake.svg)
+![Snake animation gif](https://raw.githubusercontent.com/Nikhilsingh7130/Nikhilsingh7130/output/github-contribution-grid-snake.gif)
 
-#### Live SVG (auto-updating)
-![GitHub Snake Light](https://github.com/Nikhilsingh7130/Nikhilsingh7130/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Nikhilsingh7130/Nikhilsingh7130/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-
-#### GIF Snapshot
-![GitHub Snake GIF](https://github.com/Nikhilsingh7130/Nikhilsingh7130/blob/output/github-contribution-grid-snake.gif)
 
 </div>
 
