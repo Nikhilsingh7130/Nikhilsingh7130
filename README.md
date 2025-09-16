@@ -1,31 +1,11 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&width=435&lines=Hii+%2C+Nikhil+this+Side)](https://git.io/typing-svg)
-
-※⁜∻ Student | Web Developer | Multilingual Coder
-
----
-
-🌟 Welcome! I’m Nikhil Singh, a passionate web developer and student who loves to learn and code in multiple languages. I enjoy building creative projects, exploring new technologies, and collaborating with the global developer community.
-
-> _Student by path. Coder by passion. Learner for life._
+### ``` Student | Web Developer | Multilingual Coder```
+ > _Student by path. Coder by passion. Learner for life._
+####  _```Always learning, always building!```_
 
 ---
 
-## 🧠 My Key Skills:
-
-- 💻 **Web Development** (Frontend & Backend)
-- 🌐 Multilingual Programming
-- 🛠️ Open Source Collaboration & Contributions
-- 🎯 Always learning, always building!
-
----
-
-## 🚀 Projects Era
-
-- Explore my [repositories](https://github.com/Nikhilsingh7130?tab=repositories) for web apps, tools, and experiments!
-- I’m always open to collaborating on cool ideas or joining hackathons.
-
----
 
 # 💻 Tech Stack
 
@@ -75,6 +55,7 @@ Here’s a look at my coding toolkit:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikhilsingh7130&show_icons=true&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhilsingh7130&layout=compact&theme=dracula" />
+ ![Snake animation](https://github.com/Nikhilsingh7130/Nikhilsingh7130/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ---
