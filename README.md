@@ -57,7 +57,7 @@ Here’s a look at my coding toolkit:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhilsingh7130&layout=compact&theme=dracula" />
  
 ![Snake animation](https://raw.githubusercontent.com/Nikhilsingh7130/Nikhilsingh7130/output/github-contribution-grid-snake.svg)
-![Snake animation gif](https://raw.githubusercontent.com/Nikhilsingh7130/Nikhilsingh7130/output/github-contribution-grid-snake.gif)
+<!-- ![Snake animation gif](https://raw.githubusercontent.com/Nikhilsingh7130/Nikhilsingh7130/output/github-contribution-grid-snake.gif) -->
 
 
 </div>
