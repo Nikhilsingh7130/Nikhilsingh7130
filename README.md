@@ -1,4 +1,4 @@
-# 👨‍💻 Who is [Nikhil Singh](https://github.com/Nikhilsingh7130)?
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&width=435&lines=Hii+%2C+Nikhil+this+Side)](https://git.io/typing-svg)
 
 ※⁜∻ Student | Web Developer | Multilingual Coder
 
