@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&height=150&color=gradient&textBg=false" />   
+
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&width=435&lines=Hii+%2C+Nikhil+this+Side)](https://git.io/typing-svg)
 ### ``` Student | Web Developer | Multilingual Coder```
