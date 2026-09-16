@@ -1,12 +1,11 @@
 
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&width=435&lines=Hii+%2C+Nikhil+this+Side)](https://git.io/typing-svg)
-### ``` Student | Web Developer | Multilingual Coder```
- > _Student by path. Coder by passion. Learner for life._
-####  _```Always learning, always building!```_
+<!--# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&width=435&lines=Hii+%2C+Nikhil+this+Side)](https://git.io/typing-svg)
+-->
 
----
-
+<p align="center">
+  <img src="./assets/svgviewer-output.svg" width="100%" />
+</p>
 
 # 💻 Tech Stack
 
