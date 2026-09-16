@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<!-- EDIT SECTION: change NAME, USERNAME, ROLE, TAGLINE below -->
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090909"/><stop offset=".55" stop-color="#121212"/><stop offset="1" stop-color="#080808"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E9C46A"/><stop offset=".55" stop-color="#F4A261"/><stop offset="1" stop-color="#E76F51"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="blur"><feGaussianBlur stdDeviation="25"/></filter>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="18" fill="#090921"/>
+<rect width="1200" height="360" fill="url(#grid)"/>
+<circle cx="170" cy="90" r="110" fill="gray" opacity=".09" filter="url(#blur)"><animate attributeName="cx" values="170;300;170" dur="9s" repeatCount="indefinite"/></circle>
+<circle cx="1030" cy="270" r="130" fill="black" opacity=".09" filter="url(#blur)"><animate attributeName="cx" values="1030;900;1030" dur="10s" repeatCount="indefinite"/></circle>
+<g fill="none" stroke="#00ADD1" stroke-width="1.4" opacity=".65">
+<path d="M0 60H145V90H205"><animate attributeName="stroke-dasharray" values="0 500;500 0" dur="3s" repeatCount="indefinite"/></path>
+<path d="M1200 70H1060V105H1000"><animate attributeName="stroke-dasharray" values="0 500;500 0" dur="3.5s" repeatCount="indefinite"/></path>
+<path d="M0 295H150V265H220"><animate attributeName="stroke-dasharray" values="0 500;500 0" dur="4s" repeatCount="indefinite"/></path>
+<path d="M1200 300H1050V270H980"><animate attributeName="stroke-dasharray" values="0 500;500 0" dur="4.5s" repeatCount="indefinite"/></path>
+</g>
+<g fill="red" filter="url(#glow)">
+<circle cx="120" cy="80" r="2"><animate attributeName="cy" values="80;310;80" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="1090" cy="90" r="2"><animate attributeName="cy" values="90;310;90" dur="9s" repeatCount="indefinite"/></circle>
+<circle cx="900" cy="45" r="1.5"><animate attributeName="cx" values="900;1030;900" dur="6s" repeatCount="indefinite"/></circle>
+</g>
+<text x="72" y="70" fill="#00ADD1" font-family="monospace" font-size="16">$ whoami</text>
+<text x="72" y="104" fill="#00ADD1" font-family="monospace" font-size="13">github.com/Nikhilsingh7130</text>
+<!-- EDIT: NAME -->
+<text x="70" y="180" font-family="Arial,sans-serif" font-size="62" font-weight="600" letter-spacing="3" fill="#e6edf3">NIKHIL SINGH</text>
+<!-- EDIT: ROLE -->
+<text x="74" y="218" fill="#00ADD1" font-family="monospace" font-size="19" letter-spacing="2">GO BACKEND DEVELOPER</text>
+<!-- EDIT: TAGLINE -->
+<text x="74" y="250" fill="#00ADD1" font-family="monospace" font-size="14">Building • Learning • Shipping</text>
+<rect x="300" y="238" width="8" height="17" fill="#00ADD1"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<g font-family="monospace" font-size="12">
+<rect x="72" y="278" width="72" height="27" rx="5" fill="#111" stroke="#00ADD1" stroke-opacity=".55"/><text x="88" y="296" fill="#00ADD1">Go</text>
+<rect x="154" y="278" width="82" height="27" rx="5" fill="#111" stroke="#00ADD1" stroke-opacity=".55"/><text x="170" y="296" fill="#00ADD1">Node.js</text>
+<rect x="246" y="278" width="90" height="27" rx="5" fill="#111" stroke="#00ADD1" stroke-opacity=".55"/><text x="262" y="296" fill="#00ADD1">Backend</text>
+<rect x="346" y="278" width="82" height="27" rx="5" fill="#111" stroke="#00ADD1" stroke-opacity=".55"/><text x="362" y="296" fill="#00ADD1">AWS</text>
+<rect x="438" y="278" width="72" height="27" rx="5" fill="#111" stroke="#00ADD1" stroke-opacity=".55"/><text x="454" y="296" fill="#00ADD1">C++</text>
+</g>
+<g font-family="monospace" font-size="11" fill="#00ADD1">
+<text x="850" y="145">func main() {</text><text x="870" y="165">server.Listen()</text><text x="870" y="185">api.Start()</text><text x="850" y="205">}</text>
+<text x="900" y="240" fill="#00ADD1" opacity=".65">01001001 01001110</text>
+</g>
+<rect x="-120" y="342" width="120" height="2" fill="#00ADD1"><animate attributeName="x" values="-120;1200" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="1" y="1" width="1198" height="358" rx="18" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>
